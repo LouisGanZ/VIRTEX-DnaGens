@@ -1,3 +1,6 @@
+# VIRTEX-DnaGenS
+
+
 $ pkg update
 
 $ pkg upgrade
@@ -23,3 +26,5 @@ $ ls
 $ python3 Virtex.py
 
 $ mv nama virtex.txt /sdcard
+
+## Thank You
