@@ -15,7 +15,7 @@ $ pip3 install bs4
 
 $ pip3 install requests
 
-$ $ git clone https://github.com/MD-XLouis/VIRTEX-DnaGens
+$ git clone https://github.com/MD-XLouis/VIRTEX-DnaGens
 
 $ termux-setup-storage
 
